@@ -1,6 +1,6 @@
 Bitcoin Technology Primer for Developers
 
-UTXO
+Unspent Transaction Output (UTXO)
 
 Read more...
 
